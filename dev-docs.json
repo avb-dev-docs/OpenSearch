@@ -1,0 +1,7 @@
+{
+  "gitHubApp": {
+    "connectedOrg": "opensearchfun",
+    "userDocsWorkflows": ["generateUserDocs"],
+    "issues": true
+  }
+}
